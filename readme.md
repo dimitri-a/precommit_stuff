@@ -1,0 +1,1 @@
+uncommit precommit section in package.json
