@@ -1,1 +1,1 @@
-uncommit precommit section in package.json
+uncommit precommit section in package.jsonfsfds
