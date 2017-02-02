@@ -1,0 +1,13 @@
+{
+  "name": "application-name",
+  "version": "0.0.1",
+  "devDependencies": {
+    "pre-commit": "^1.2.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: I SHOULD FAIL LOLOLOLOLOL \" && exit 1"
+  }
+//  "pre-commit": [
+//    "test"
+//  ]
+}
